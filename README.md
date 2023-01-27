@@ -10,4 +10,4 @@ Data structure and algorithm
 
 3、第三题：
 ![image](https://user-images.githubusercontent.com/121226086/214993042-e9050945-93ab-4f78-b1d3-ebd32698dca0.png)
-
+第三题详细解释，请大家参考：https://www.acwing.com/file_system/file/content/whole/index/content/1469375/（转载）
